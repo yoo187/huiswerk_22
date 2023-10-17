@@ -1,0 +1,33 @@
+
+
+body{
+    background-color: silver;
+    background-image: url(kali-linux1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: auto;
+    background-position: 30%;
+}
+
+
+header{
+    background-color: silver;
+}
+img{
+    margin: 0.7rem;
+    border: 1rem;
+    border-radius: 1rem;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: transparent;
+    color: whitesmoke;
+}
+p{
+    color: black;
+
+    
+}
